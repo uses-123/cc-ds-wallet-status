@@ -2,7 +2,7 @@
 
 使用 `cc switch` 配置 `Claude Code` 的状态栏，使余额显示在状态栏。
 
-有关详细信息，请参阅 `settings_addition_code.md`。该项目仅适用于在 `ClaudeCode` 上配置 `DeepSeek API` 的用户。
+有关详细信息，请参阅 `settings_addition_code.md`。该项目仅适用于在 `ClaudeCode` 上配置 `DeepSeek API` 的`win`用户。
 
 -- 第一个是 `claude` 所在的工作目录。
 
@@ -16,7 +16,7 @@
 
 Use the cc switch to configure the status bar of Claude Code, so that the balance is displayed there.
 
-For details, see `settings_addition_code.md.` This project is intended solely for users who have configured the DeepSeek API on ClaudeCode.
+For details, see `settings_addition_code.md.` This project is only available to `win` users who configure `DeepSeek API` on `ClaudeCode`.
 
 The first is the working directory where claude is located.
 
