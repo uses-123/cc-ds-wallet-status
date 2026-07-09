@@ -47,3 +47,12 @@
   "theme": "dark-ansi"
 }
 ```
+重点是在"env"字段里面添加`"DEEPSEEK_API_KEY": "（YOUR_DEEPSEEK_API_KEY）"`
+以及新增字段
+```
+"statusLine": {
+  "command": "bash ~/.claude/statusline.sh",
+  "type": "command"
+},
+```
+不必与上述给出完整配置相同
